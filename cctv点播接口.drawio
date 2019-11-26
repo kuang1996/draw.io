@@ -1,1 +1,63 @@
-<mxfile host="www.draw.io" modified="2019-11-26T03:05:40.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="lwooCQPG6e8nDSnm5XZc" version="12.3.0" type="github" pages="1"><diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">7Vzbcps6FP0aP3YGJK6PxzlJ+5DOdCadnmcFZMMpRh6Q67hfX2Ekg5GN8SVIqZWHDNoSAu+12HvpAhP4sHj7XKBl8pXEOJsAK36bwH8nAHi+xf5Xhk1tgBDWhnmRxrXJbgwv6W/Mjfy8+SqNcbnXkBKS0XS5b4xInuOI7tlQUZD1frMZyfavukRzLBleIpTJ1v/SmCbcaltWU/EFp/OEXzpwecUrin7OC7LK+fUmAM62f3X1Aom+ePsyQTFZt0zwcQIfCkJofbR4e8BZ5Vrhtvq8pyO1u/sucE6HnOD72ItCf2aHXoyCAH7iPfxC2Yr74htzPL9ZuhEOKtfpIkM5K00TusiY0WaHUZJm8TPakFV18ZIyZ4jSlJUKypFmNwWnWy/h6j6q0s4RVSFDrzib7lz5QDJSsKqcbC9Y0oL83OFSXXdGcvqEFmlW0e0HLmKUI27mVwxYEWXpPGfHEfMNZv1NZWeJX48Lit9aJu68z5gsMC02rAmvFUTnPHd4cd2QJvS4LWnxxRd8QZyo813PDVjsgOM1EDsgYfdcQQQseyB+Ekayh44S5rTLuI+A7CP7oI/ge/gokHwk+aYhZuWTdZJS/LJEUVW7ZtGu4zIteHuUCoOJDPaJ7LkySNYBkLz3wCg0GA3ByHZVgiRStUGpgxLcR8n1DsS70VACngQKjpnU4UVS0ITMSY6yx8Y63YetBdEpVFj2+KdSXx3bU1rdcJ3mWxnGZWWcx+KMKENlmUbfkzSvK/hpdl1qnfQ/pnTDy2hFCTM1P+SZkOUunV1Ck8EprySrIsL9eYb93Dk+2g/vqEKkl1kFzhBNf+2L09vyxDc8UcITwYFeooS35sn2VOZQtGk1WJI0p2Wr52+VoZV+nMP55+lIe7+3OTuob6Ah7O6XXMjhwHBYCYfDIbEOaBPrRII2PBk71kEVse5ynsjDZsOTUXjifSyeyAMfw5MxeCLGwx9BO3WmV8LOtGx/c+j3N/d7m99eaYnZfMN4HTOo7eoTGkNDFH1DI4DaEMUxmlwRUYZEFOCoIopt+a/I97CDIXRnYfjJaHJFmccfknkCbXhiNLmieAKG8OTm8eQiUe55HVVu98vsbnvX7W/vWL3tr9blEumNLBd3OQHQ2v5d/DjUxUP9jfqkKJvmkMjl3D25dI6o1l1E1GDkgOoazqtRm0OGr7ePjRdxvsNJ75QoCK9sb78z582OEUWcd7TWA/LcXt2nvNtUHnqp2G0qajsZRu3uU7Hb42/fNAfPhQl2g6KM0mh75pxjxJaHVwqJDYFWxAb3QWznbJi02rMrx2wZpYQsXlflaYR0fH/jerw6e9wOvdERjAaXHInMQ3XgoVK8xdqscd5eMIvJpl7BPGhiRJ81TveYrpBn1hTqCifQSlfITvsrQ6B7LkzwdJ4aUVd496YrzsaroyvggcdqPF3hm4dqyEO1W79T81DdyWuQ16KkWP0NeQ3ShL723I7KIRU0q5iaLJGLpbVehc8b9St8Lj40UPjQrBfefig4iChD3hgRskcHophFNkVEGfKuosjpGhBFHljxOQM50iicM/C6s6Zq5wzu5Bsv3rkwaTW8AXeyFHo1SoFSlIBB6QMMQoes6xmUDg49x0MJmm+s3F70CSHdK/qGfIxH5CMNRB80HzJRQ5Tdt0Z7iQK0IYo8j89HB/LwUuHoILB0Gh2AO9lU4Z8L04i5khWbT9zWe5abzwjDxz8=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-26T03:24:48.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="xhE0LCfzT9Hsz5Vovsqc" version="12.3.0" type="github" pages="1">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2RfhlkC-iPAY5lcIJeJY-2" target="2RfhlkC-iPAY5lcIJeJY-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-16" value="参数：&lt;br&gt;nodeId:频道ID，央视给出&lt;br&gt;pageSize:每一页显示的视频数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2RfhlkC-iPAY5lcIJeJY-9">
+          <mxGeometry x="0.0727" y="52" relative="1" as="geometry">
+            <mxPoint x="-83" y="8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2RfhlkC-iPAY5lcIJeJY-2" target="2RfhlkC-iPAY5lcIJeJY-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-2" value="获取点播节目列表&lt;br&gt;（可能有分类，不同的分类不同的参数）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2RfhlkC-iPAY5lcIJeJY-3" target="2RfhlkC-iPAY5lcIJeJY-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-3" value="不带剧集的点播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2RfhlkC-iPAY5lcIJeJY-4" target="2RfhlkC-iPAY5lcIJeJY-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-18" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;两种方式获得：&lt;br&gt;1. 通过节目列表中节目中requestUrl 直接获得当前节目的详情页&lt;br&gt;2.参数形式&lt;br&gt;&lt;br&gt;注：对于不带剧集的点播和带剧集的点播，&lt;br&gt;带剧集的点播中会有&lt;span style=&quot;font-size: 14px ; white-space: pre&quot;&gt;dramaList字段，该字段为每一集的节目信息&lt;br&gt;不带剧集的点播中没有&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(239 , 89 , 111) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;courier new&amp;quot; , monospace ; font-size: 14px ; white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2RfhlkC-iPAY5lcIJeJY-13">
+          <mxGeometry x="-0.0957" y="65" relative="1" as="geometry">
+            <mxPoint x="-235" y="104" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-4" value="带剧集的点播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2RfhlkC-iPAY5lcIJeJY-7" target="2RfhlkC-iPAY5lcIJeJY-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-19" value="带剧集的点播参数：&lt;br&gt;contId:dramaList每个元素的playContId的值&lt;br&gt;programId:dramaList每个元素的videoId的值&lt;br&gt;不带剧集的点播参数：&lt;br&gt;contId:dramaInfo每个元素的playContId的值&lt;br&gt;programId:dramaInfo每个元素的videoId的值&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2RfhlkC-iPAY5lcIJeJY-14">
+          <mxGeometry x="-0.2174" relative="1" as="geometry">
+            <mxPoint x="-100" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-7" value="点播详情页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-8" value="获取播放地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="760" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-17" value="参数：&lt;br&gt;nodeId:频道ID，央视给出&lt;br&gt;pageSize:每一页显示的视频数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="790" y="120" as="geometry">
+            <mxPoint x="-83" y="8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2RfhlkC-iPAY5lcIJeJY-21" value="注：对于直接从返回值中获取到url到下一级的，都可以自行拼接参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="480" width="170" height="90" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
